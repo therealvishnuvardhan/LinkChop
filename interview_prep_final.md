@@ -3,6 +3,7 @@
 
 This guide is structured to help you ace your interview by walking you through the project architecture, code linkages, and essential technical questions (ranging from Next.js and React basics to PostgreSQL, Redis, and security protocols).
 
+## hello
 ---
 
 ## Part 1: How to Start the Interview (The Elevator Pitch)
